@@ -3,6 +3,7 @@
 	
 	"author" :"Arjya Chakraborty",
 	"description": "free code camp backend certification practice",
+	"keywords": ["freecodecamp","npm","node"],
 	"dependencies": {
 		"express": "4.14.0"
 	},
