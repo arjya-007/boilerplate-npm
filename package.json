@@ -2,9 +2,9 @@
 	"name": "fcc-learn-npm-package-json",
 	
 	"author" :"Arjya Chakraborty",
-	"description" : "free code camp backend certification practice",
+	"description": "free code camp backend certification practice",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
